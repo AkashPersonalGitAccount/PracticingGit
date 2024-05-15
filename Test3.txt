@@ -1,0 +1,1 @@
+Pull command to get the files which is presented in git repo
